@@ -20,7 +20,7 @@ Go to Window > Userscripts/Userstyle
 
 ## Apps:
 
-### [Gmail](gmail.com)
+### [Gmail](https://www.gmail.com)
 
 * Userscript from FluidApp
 * Patterns
@@ -30,7 +30,7 @@ Go to Window > Userscripts/Userstyle
 * Icons
 	* gmail.icns by [http://www.iconarchive.com/](http://www.iconarchive.com/)	
 
-### [Facebook](facebook.com)
+### [Facebook](https://www.facebook.com)
 
 * Userscript from FluidApp
 * Patterns
@@ -39,7 +39,7 @@ Go to Window > Userscripts/Userstyle
 	* facebook.png by [https://www.flickr.com/photos/43098245@N04/8238182340/in/photostream/](https://www.flickr.com/photos/43098245@N04/8238182340/in/photostream/)
 
 
-### [Asana](asana.com)
+### [Asana](https://app.asana.com)
 
 * Userscript from [https://gist.github.com/jgimenez/da69495b2ce30f96a065](https://gist.github.com/jgimenez/da69495b2ce30f96a065)
 * Patterns
@@ -49,7 +49,7 @@ Go to Window > Userscripts/Userstyle
 	* asana_1.png by [https://www.flickr.com/photos/davevinall/7794074194](https://www.flickr.com/photos/davevinall/7794074194)	
 
 
-### [Messenger](messenger.com)
+### [Messenger](https://www.messenger.com)
 
 * Userstyle from [@lborgav](@lborgav)
 * Patterns
@@ -58,7 +58,7 @@ Go to Window > Userscripts/Userstyle
 	* messenger.icns by ?
 
 
-### [Trello](trello.com)
+### [Trello](https://trello.com)
 
 * Userscript from [https://gist.github.com/kreeger/8358399](https://gist.github.com/kreeger/8358399)
 * Patterns
@@ -67,13 +67,13 @@ Go to Window > Userscripts/Userstyle
 	* trello.png by [https://www.flickr.com/photos/nathos/8497720157/in/pool-fluid_icons/](https://www.flickr.com/photos/nathos/8497720157/in/pool-fluid_icons/)
 
 
-### [SoundCloud](soundcloud.com)
+### [SoundCloud](https://soundcloud.com)
 
 * Icons
 	* soundcloud.png by [https://www.flickr.com/photos/slippyd/8292777643](https://www.flickr.com/photos/slippyd/8292777643)
 
 
-### [Basecamp](basecamp.com)
+### [Basecamp](https://www.basecamp.com)
 
 * Icons
 	* soundcloud.png by [https://www.flickr.com/photos/43098245@N04/10052317526/in/pool-fluid_icons/](https://www.flickr.com/photos/43098245@N04/10052317526/in/pool-fluid_icons/)
